@@ -1,0 +1,208 @@
+
+rpg.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+troll2RedDef
+  rotate: false
+  xy: 2, 1161
+  size: 1911, 868
+  orig: 1911, 868
+  offset: 0, 0
+  index: -1
+trollStun
+  rotate: false
+  xy: 2, 396
+  size: 1715, 760
+  orig: 1715, 760
+  offset: 0, 0
+  index: -1
+poison
+  rotate: false
+  xy: 1918, 1879
+  size: 1973, 150
+  orig: 1973, 150
+  offset: 0, 0
+  index: -1
+knightGolden
+  rotate: false
+  xy: 1918, 1302
+  size: 1302, 572
+  orig: 1302, 572
+  offset: 0, 0
+  index: -1
+confusion
+  rotate: false
+  xy: 2, 211
+  size: 1575, 180
+  orig: 1575, 180
+  offset: 0, 0
+  index: -1
+orkPoison
+  rotate: false
+  xy: 1918, 701
+  size: 1260, 596
+  orig: 1260, 596
+  offset: 0, 0
+  index: -1
+elfArcher
+  rotate: false
+  xy: 3225, 1334
+  size: 770, 540
+  orig: 770, 540
+  offset: 0, 0
+  index: -1
+knightAxe
+  rotate: false
+  xy: 1722, 124
+  size: 1043, 572
+  orig: 1043, 572
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 2770, 120
+  size: 576, 576
+  orig: 576, 576
+  offset: 0, 0
+  index: -1
+elfMagician
+  rotate: false
+  xy: 3225, 833
+  size: 745, 496
+  orig: 745, 496
+  offset: 0, 0
+  index: -1
+menuBtn
+  rotate: false
+  xy: 2, 97
+  size: 422, 109
+  orig: 422, 109
+  offset: 0, 0
+  index: -1
+menuBtnPressed
+  rotate: false
+  xy: 429, 106
+  size: 422, 100
+  orig: 422, 100
+  offset: 0, 0
+  index: -1
+actionPanel
+  rotate: false
+  xy: 2, 2
+  size: 349, 90
+  orig: 349, 90
+  offset: 0, 0
+  index: -1
+btnGameMenu
+  rotate: false
+  xy: 3896, 1920
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 1582, 302
+  size: 120, 89
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+btnGameMenuPressed
+  rotate: false
+  xy: 1722, 1056
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btnArcherAttack
+  rotate: false
+  xy: 856, 126
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnDefence
+  rotate: false
+  xy: 4001, 1949
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnHeal
+  rotate: false
+  xy: 1582, 217
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnMagicAttack
+  rotate: false
+  xy: 1722, 971
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnMeleeAttack
+  rotate: false
+  xy: 1827, 1076
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnRegen
+  rotate: false
+  xy: 941, 126
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+hpBar
+  rotate: false
+  xy: 3896, 1895
+  size: 90, 20
+  orig: 90, 20
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 1722, 941
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+effectDefence
+  rotate: false
+  xy: 3183, 1272
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+effectPoison
+  rotate: false
+  xy: 356, 67
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+effectReduceDef
+  rotate: false
+  xy: 1667, 272
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+effectRegen
+  rotate: false
+  xy: 1026, 181
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+effectStun
+  rotate: false
+  xy: 1722, 911
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
